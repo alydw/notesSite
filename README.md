@@ -1,2 +1,2 @@
 # notesSite
-Site de nota e lembretes
+Site de notas e lembretes
